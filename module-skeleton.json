@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-marketplace-orders-nuxt",
+  "capabilityKey": "planned:ecommerce:marketplace-orders",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-marketplace-orders-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/marketplace-orders.md",
+  "presentationPlan": "projects/ecommerce/nuxt/marketplace-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
